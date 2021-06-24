@@ -1,0 +1,211 @@
+body {
+    background-color: #FFEBE7;
+    margin: 0px;
+    font-family: monospace;
+}
+
+.Header {
+    background-color: #fdbfc4;
+    height: 50px;
+    margin-bottom: 100px;
+    padding: 10px;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-family: 'Caveat', cursive;
+    color: #293241;
+    font-weight: bolder;
+}
+
+.content {
+    margin-top: 25px;
+    color: black;
+}
+.Title {
+    margin-top: 75px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: x-large;
+}
+
+#LogoClick {
+    height: 80px;
+    width: 85px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    right: 8px;
+    bottom: 15px;
+    
+}
+
+.byline {
+    color: #FF82A9;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+#contents {
+    position: relative;
+    color: black;
+    text-decoration: none;
+    bottom: 144px;
+    left: 790px;
+    padding: 0px;
+}
+
+.content:hover {
+    color: #FF82A9;
+}
+
+#illus1 {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 800px;
+}
+    
+.ruller {
+    margin-top: 50px;
+    color: #FF82A9;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: double;
+    border-top: 0px;
+    border-spacing: 100px;
+    border-width: 5px;
+}
+
+.gap {
+    height: 100px;
+}
+
+#intro {
+    background-color: #FFC0BE;
+    height: 360px;
+    margin-right: 100px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#skill {
+    background-color: #FFC0BE;
+    height: 400px;
+    margin-left: 100px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#pricing {
+    background-color: #FFC0BE;
+    height: 370px;
+    margin-right: 600px;
+    padding-left: 70px;
+    padding-bottom: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#aboutimg {
+    height: 400px;
+    position: absolute;
+    left: 700px;
+}
+
+.sub {
+    position: absolute;
+    margin-top: 20px;
+}
+
+.subtext {
+    position: absolute;
+    top: 480px;
+    line-height: 25px;
+}
+ #skillimg {
+    height: 460px;
+    position: absolute;
+    right: 700px;
+    top: 880px;
+ }
+
+ #pricingimg {
+     height: 450px;
+     position: absolute;
+     left: 230px;
+     top: 1400px;
+ }
+
+ #skillz {
+     position: absolute;
+     right: 550px;
+     margin-top: 20px;
+ }
+
+ #skilltb {
+     position: absolute;
+     left: 360px;
+     margin-top: 60px;
+ }
+
+ li {
+     margin-top: 25px;
+ }
+
+ #Priz {
+     position: absolute;
+     margin-top: 20px;
+     margin-left: 120px;
+ }
+
+ #priceinfo {
+    position: absolute;
+    top: 1480px;
+    line-height: 50px;
+    text-align: center;
+ }
+
+ #social {
+     background-color: #FFC0BE;
+     height: 65px;
+     margin-top: 0px;
+     margin-left: 100px;
+     margin-right: 100px;
+     border-radius: 20px;
+ }
+
+ #socialz {
+     position: absolute;
+     top: 1797px;
+     text-align: center;
+     right: 12px;
+ }
+
+ a {
+     color: black;
+ }
+
+ a:hover {
+    color: #FF82A9;
+ }
+
+ #end {
+     height: 100px;
+     position: relative;
+     background-color: #fdbfc4;
+     margin: 0px;
+ }
+
+ h4 {
+     position: absolute;
+     top: 50px;
+     left: 550px;
+     color: black;
+     height: 20px;
+ }
